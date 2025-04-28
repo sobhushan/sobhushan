@@ -17,34 +17,51 @@ Users can write API docs in the editor, validate syntax, and instantly generate 
 
 ---
 
-## Skills
+## Skills & Tech Stack
 
-### Languages
-- C/C++
-- Python
-- HTML & CSS
-- JavaScript
-- MySQL
-
-### Libraries & Frameworks
-- React
-- Numpy
-- Pandas
-- Matplotlib
-- Tkinter
-
-### Software & Tools
-- Microsoft Excel and PowerPoint
-- Power BI
-- Postman
-- Git
-- Adobe Illustrator
----
-
-## Tech Stack
-
-- Frontend: React, TypeScript, Vite, Next.js
-- Backend: Node.js, Express, Firebase
+<table>
+  <tr>
+    <td><b>Programming Languages</b></td>
+    <td><b>Frameworks & Libraries</b></td>
+    <td><b>Software & Tools</b></td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>C/C++</li>
+        <li>Python</li>
+        <li>JavaScript</li>
+        <li>HTML & CSS</li>
+        <li>MySQL</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>React</li>
+        <li>Next.js</li>
+        <li>Vite</li>
+        <li>Streamlit</li>
+        <li>Node.js</li>
+        <li>Express</li>
+        <li>Numpy</li>
+        <li>Pandas</li>
+        <li>Matplotlib</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Microsoft Excel</li>
+        <li>Microsoft PowerPoint</li>
+        <li>Firebase</li>
+        <li>Git</li>
+        <li>VS Code</li>
+        <li>Postman</li>
+        <li>Power BI</li>
+        <li>Adobe Illustrator</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
